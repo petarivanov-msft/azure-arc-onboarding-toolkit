@@ -1,0 +1,14 @@
+{
+  "tenantId": "YOUR-TENANT-ID",
+  "subscriptionId": "YOUR-SUBSCRIPTION-ID",
+  "resourceGroup": "rg-arc-prod-uksouth",
+  "location": "uksouth",
+  "servicePrincipalId": "YOUR-SP-APP-ID",
+  "servicePrincipalSecret": "YOUR-SP-SECRET",
+  "proxyUrl": null,
+  "tags": {
+    "ManagedBy": "ArcToolkit",
+    "Environment": "Production"
+  },
+  "logPath": "C:\\ArcOnboarding\\Logs"
+}

@@ -1,0 +1,6 @@
+ServerName,ResourceGroup,Location,Tags
+SVR-WEB-01,rg-arc-prod-uksouth,uksouth,Environment=Production;Team=WebPlatform
+SVR-WEB-02,rg-arc-prod-uksouth,uksouth,Environment=Production;Team=WebPlatform
+SVR-APP-01,rg-arc-prod-uksouth,uksouth,Environment=Production;Team=AppServices
+SVR-DB-01,rg-arc-prod-uksouth,uksouth,Environment=Production;Team=Data
+SVR-DEV-01,rg-arc-dev-uksouth,uksouth,Environment=Development;Team=Engineering
